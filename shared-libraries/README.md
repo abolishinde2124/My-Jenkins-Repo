@@ -22,7 +22,7 @@ Think of it like a library of books, Instead of buying the same book over and ov
 ## Configure Jenkins to Use the Shared Library
 Navigate to Jenkins Configuration:
 
-1.Go to "Manage Jenkins" → "Configure System".
+1.Go to "Manage Jenkins" → "Configure System".<br>
 2.Add the Shared Library:
 
 3.Scroll down to the "Global Pipeline Libraries" section.<br>
