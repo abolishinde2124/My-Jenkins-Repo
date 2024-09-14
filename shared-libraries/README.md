@@ -25,10 +25,10 @@ Navigate to Jenkins Configuration:
 Go to "Manage Jenkins" → "Configure System".
 Add the Shared Library:
 
-Scroll down to the "Global Pipeline Libraries" section.
-Click "Add" and provide the following details:
-Name: A unique name for the library (e.g., my-shared-library).
-Source Code Management: Choose the SCM (e.g., Git) and provide the repository URL.
-Credentials: (if needed) Add credentials for accessing the repository.
-Library Retrieval: Specify the branch or tag.
+Scroll down to the "Global Pipeline Libraries" section.<br>
+Click "Add" and provide the following details:<br>
+Name: A unique name for the library (e.g., my-shared-library).<br>
+Source Code Management: Choose the SCM (e.g., Git) and provide the repository URL.<br>
+Credentials: (if needed) Add credentials for accessing the repository.<br>
+Library Retrieval: Specify the branch or tag.<br>
 Save the Configuration.
