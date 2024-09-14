@@ -1,5 +1,7 @@
 # Shared Libraries
 
+![Jenkis-Groovy-1024x576-1](https://github.com/user-attachments/assets/aad14eae-164f-42a2-a145-2a671dd90a02)
+
 In Jenkins, a shared library is a way to store commonly used code(reusable code), such as scripts or functions, that can be used by different 
 Jenkins pipelines. 
 
