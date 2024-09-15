@@ -10,7 +10,7 @@ Steps:- Individual tasks executed in each stage, like running a shell command or
 1) Declarative Pipeline<br>
 2) Scripted Pipeline<br>
 
-    ## 1) Declarative Pipeline:<br>
+   ## 1) Declarative Pipeline:<br>
 
 Uses a simpler and more structured syntax.<br>
 Enforces a specific structure, making it easier to write and maintain.<br>
