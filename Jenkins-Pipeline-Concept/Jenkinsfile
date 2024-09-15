@@ -1,3 +1,7 @@
+Handling failure
+Declarative Pipeline supports robust failure handling by default via its post section which allows declaring a
+number of different "post conditions" such as: always, unstable, success, failure, and changed. 
+
 Declarative Pipeline:
 
 pipeline {
